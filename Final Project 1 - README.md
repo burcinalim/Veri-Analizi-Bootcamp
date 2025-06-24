@@ -100,8 +100,7 @@ This project was developed as part of a data analysis bootcamp. It includes ofte
 
 ---
 
-## ✨ Possible Enhancements (Advanced)
-
+## ✨ Possible Enhancements
 - Build a machine learning model to predict passenger satisfaction.
 - Compare results across different customer segments (e.g., Business vs. Economy class).
 - Create an interactive dashboard using Streamlit or Dash.
